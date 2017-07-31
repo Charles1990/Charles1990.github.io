@@ -1,29 +1,16 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-crawlertitle: "How to use jekyll"
-summary: "Jekyll default page"
-date:   2016-06-28 23:09:47 +0700
+title:  "Welcome to my new blog!"
+crawlertitle: "Welcome"
+summary: "欢迎"
+date:   2017-07-31 23:00:00
 categories: posts
-tags: 'jekyll'
-author: redVi
+tags: 'one'
+author: 二爷
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+欢迎来到二爷的技术博客
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+我还不知道在这边如何用Markdown写文章呢，就先试试吧！！
 
-Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[![railroad]({{ site.images }}/tools.jpg)]({{ site.images }}/tools.jpg)
