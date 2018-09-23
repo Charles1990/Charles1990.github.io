@@ -6,10 +6,33 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 31 Jul 2017 23:13:40 +0800</pubDate>
-    <lastBuildDate>Mon, 31 Jul 2017 23:13:40 +0800</lastBuildDate>
+    <pubDate>Sun, 23 Sep 2018 10:39:13 +0800</pubDate>
+    <lastBuildDate>Sun, 23 Sep 2018 10:39:13 +0800</lastBuildDate>
     <generator>Jekyll v3.5.0</generator>
+    
+      <item>
+        <title>Test</title>
+        <description>&lt;hr /&gt;
+&lt;p&gt;layout: post
+title:  “TESTtest”
+crawlertitle: “test”
+summary: “test”
+date:   2018-09-22 01:00:00
+categories: posts
+tags: ‘one’
+author: 二爷&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;测试，做个测试&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;/assets/images/tools.jpg&quot;&gt;&lt;img src=&quot;/assets/images/tools.jpg&quot; alt=&quot;railroad&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 22 Sep 2018 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/test/</link>
+        <guid isPermaLink="true">http://localhost:4000/test/</guid>
+        
+        
+      </item>
+    
       <item>
         <title>Welcome to my new blog!</title>
         <description>&lt;p&gt;欢迎来到二爷的技术博客&lt;/p&gt;
@@ -21,14 +44,14 @@
         <pubDate>Tue, 01 Aug 2017 07:00:00 +0800</pubDate>
         <link>http://localhost:4000/posts/welcome-to-jekyll/</link>
         <guid isPermaLink="true">http://localhost:4000/posts/welcome-to-jekyll/</guid>
-
+        
         <category>one</category>
-
-
+        
+        
         <category>posts</category>
-
+        
       </item>
-
+    
       <item>
         <title>You Don't Know JS: ES6 &amp; Beyond</title>
         <description>&lt;p&gt;Before you dive into this book, you should have a solid working proficiency over JavaScript up to the most recent standard (at the time of this writing), which is commonly called ES5 (technically ES 5.1). Here, we plan to talk squarely about the upcoming ES6, as well as cast our vision beyond to understand how JS will evolve moving forward.&lt;/p&gt;
@@ -66,13 +89,13 @@
         <pubDate>Wed, 29 Jun 2016 21:09:47 +0800</pubDate>
         <link>http://localhost:4000/posts/es6/</link>
         <guid isPermaLink="true">http://localhost:4000/posts/es6/</guid>
-
+        
         <category>front-end</category>
-
-
+        
+        
         <category>posts</category>
-
+        
       </item>
-
+    
   </channel>
 </rss>
